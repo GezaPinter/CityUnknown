@@ -47,6 +47,9 @@ public class Story {
 		this.scroll("-Do you go with HIM or NOT and do something by yourself?-");
 		this.wait("");
 		this.scroll("-Yes or No?-");
+		this.wait("");
+		this.scroll("Am I on github? LoL");
+		
 		
 	}
 	
